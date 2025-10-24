@@ -4,6 +4,8 @@
 ![1](https://github.com/user-attachments/assets/30195c45-9b92-4b51-bfcf-7cd5afee7a36)
 
 
+## TRY IT OUT
+### CHECK HERE: https://oil-spill-detector.onrender.com/
 
 ## Overview
 The **Oil Spill Detection AI** project leverages a convolutional neural network (CNN) model to detect oil spills in images. By automating this detection process, the system enables real-time monitoring and helps accelerate response times to protect marine ecosystems from oil pollution. The project is designed to assist in effective cleanup efforts by providing a fast and reliable tool for oil spill identification.
