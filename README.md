@@ -21,7 +21,7 @@ The **Oil Spill Detection AI** project leverages a convolutional neural network 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Likith-2004/mini-project.git
+   git clone https://github.com/Bindubs807/mini-project.git
    cd mini-project
    
 2. **Set up a Virtual Environment (Optional but Recommended)**:
